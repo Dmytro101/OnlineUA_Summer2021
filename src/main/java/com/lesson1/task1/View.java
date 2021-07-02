@@ -1,3 +1,5 @@
+package com.lesson1.task1;
+
 public class View {
 
     public static final String INPUT_STRING_DATA = "Input STRING value = ";

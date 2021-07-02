@@ -1,3 +1,5 @@
+package com.lesson1.task1;
+
 public class Model {
 
     public static final String FIRST_PART = "Hello";
