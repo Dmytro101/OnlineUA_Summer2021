@@ -5,7 +5,7 @@ public class Main {
         MyArrayList<String> list = new MyArrayList<>();
         list.add("1");
         list.add("2");
-        
+
         try {
             list.remove(0);
             list.set(0, "0");
